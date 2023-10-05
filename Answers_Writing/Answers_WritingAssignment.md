@@ -1,4 +1,4 @@
-#### Why decreasing monitoring communication costs is essential in high-performance packet processing infrastructures?
+# Why decreasing monitoring communication costs is essential in high-performance packet processing infrastructures?
 
 The importance of reducing the cost of monitoring communications in a high-performance packet processing infrastructure is demonstrated by the following:
 
@@ -18,7 +18,7 @@ Reference:
 
 [3] Chapter: "Simple Approaches in 2.2 Continuous Distributed Monitoring"
 
-#### Some initial ideas on how you would extend the results of the paper.
+# Some initial ideas on how you would extend the results of the paper.
 
 Based on my understanding, I believe I can extend and contribute to the directions mentioned in the article as follows:
 
